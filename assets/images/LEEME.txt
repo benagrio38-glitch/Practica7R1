@@ -1,0 +1,8 @@
+Fotos opcionales de cada sabor.
+
+Si pones aquí una foto con el nombre del sabor, la app la usa.
+Si no hay foto, la app muestra un fondo de color con un icono.
+
+Nombres que busca la app (formato .jpg):
+vainilla.jpg, chocolate.jpg, fresa.jpg, limon.jpg, mango.jpg, guayaba.jpg,
+tuna.jpg, aguacate.jpg, elote.jpg, mole.jpg, pulque.jpg, tequila.jpg
