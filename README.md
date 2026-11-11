@@ -51,3 +51,9 @@ flutter run -d chrome
 | Mi perfil |
 |---|
 | ![Perfil](evidencia/07_perfil.png) |
+
+## Pruebas automáticas
+
+`flutter test` pasa las 6 pruebas de `test/widget_test.dart`: los datos de ejemplo (12 sabores, ids únicos, precio y rareza válidos), el splash, el filtro por categoría y el buscador.
+
+![flutter test](evidencia/08_flutter_test.png)
